@@ -21,8 +21,6 @@ RGI analyzes genomes under three paradigms: Perfect, Strict, and Loose. The Perf
 
 #### RGI for metagenomes:
 
-
-
 ### Results:
 
 #### RGI for genenomes:
